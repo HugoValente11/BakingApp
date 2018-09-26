@@ -1,6 +1,6 @@
 # BakingApp
 
-Udacity Project 3 - Baking Application
+***Udacity Nanodegree Project Baking App***
 
 **Project Overview**
 
